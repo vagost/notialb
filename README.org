@@ -1,4 +1,4 @@
-*notiable*
+*notialb*
 
 Notialb is project for play a live AudioVisual Intelligent Dance Music. The development is taking place at github https://github.com/earlab/notialb.
 
